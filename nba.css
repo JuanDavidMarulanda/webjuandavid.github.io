@@ -1,0 +1,75 @@
+body{
+
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    }
+    
+    
+    #container{ 
+        width: 1100px;
+        margin: 0px auto;
+        border: 10px;
+        background-size: 100%;
+        background-image: url(https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png);
+        width: auto;
+        background-position-y: center;
+    }
+    
+    header{
+        
+        height: 100px;
+        pos
+        width: 100%;
+        margin: 0px;
+        color: rgb(250, 2, 2);
+        text-align: center;
+        line-height: 100px;
+        border: black 1px;
+        
+    }
+    nav ul li{
+        float: left;
+        list-style: none;
+        margin: 10px;
+        line-height: 30px;
+        color: white;
+        animation-name: calc(40);
+    }
+    .clearfix{ 
+        clear: both;
+    }
+    nav{
+        
+        height: 50px;
+        border-bottom: 1px solid black;
+        
+    }
+    #content{
+        float: left;
+        width: 75%;
+        min-height: 500px;
+        padding: 40px;
+        
+    }
+    aside{
+        float: left;
+        width: 70%;
+        
+    }
+    
+    footer{
+        background: black;
+        color: white;
+        align-self: center;
+        height: 50px;
+        line-height: 50px;
+    }
+    
+    .article{ 
+        color: white;
+        margin-top: 15px;
+        margin-bottom:15px;
+        
+    
+    }
